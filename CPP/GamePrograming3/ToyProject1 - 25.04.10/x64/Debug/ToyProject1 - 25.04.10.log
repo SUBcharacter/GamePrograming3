@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\LEEYUNGI\Desktop\GamePrograming3\CPP\GamePrograming3\ToyProject1 - 25.04.10\main.cpp(21,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\LEEYUNGI\Desktop\GamePrograming3\CPP\GamePrograming3\ToyProject1 - 25.04.10\main.cpp(21,21): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  ToyProject1 - 25.04.10.vcxproj -> C:\Users\LEEYUNGI\Desktop\GamePrograming3\CPP\GamePrograming3\x64\Debug\ToyProject1 - 25.04.10.exe

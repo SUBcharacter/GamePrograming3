@@ -5,6 +5,14 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GamePrograming3", "GamePrograming3\GamePrograming3.vcxproj", "{1ECD7C93-5CA0-47C9-ACF6-5A40A91DC5F5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch1", "Ch1", "{A8B7BD8B-53BF-427B-A321-81DA6E4D628F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch1 - difference of C and CPP", "Ch1 - difference of C and CPP\Ch1 - difference of C and CPP.vcxproj", "{E3D3577C-FBBA-4657-AC0A-6063C356B245}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ToyProject1", "ToyProject1", "{4651D806-CA29-4B07-8014-3A49D156E43A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToyProject1 - 25.04.10", "ToyProject1 - 25.04.10\ToyProject1 - 25.04.10.vcxproj", "{93CE145A-9329-432D-AB89-5EE195451E92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,9 +29,29 @@ Global
 		{1ECD7C93-5CA0-47C9-ACF6-5A40A91DC5F5}.Release|x64.Build.0 = Release|x64
 		{1ECD7C93-5CA0-47C9-ACF6-5A40A91DC5F5}.Release|x86.ActiveCfg = Release|Win32
 		{1ECD7C93-5CA0-47C9-ACF6-5A40A91DC5F5}.Release|x86.Build.0 = Release|Win32
+		{E3D3577C-FBBA-4657-AC0A-6063C356B245}.Debug|x64.ActiveCfg = Debug|x64
+		{E3D3577C-FBBA-4657-AC0A-6063C356B245}.Debug|x64.Build.0 = Debug|x64
+		{E3D3577C-FBBA-4657-AC0A-6063C356B245}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3D3577C-FBBA-4657-AC0A-6063C356B245}.Debug|x86.Build.0 = Debug|Win32
+		{E3D3577C-FBBA-4657-AC0A-6063C356B245}.Release|x64.ActiveCfg = Release|x64
+		{E3D3577C-FBBA-4657-AC0A-6063C356B245}.Release|x64.Build.0 = Release|x64
+		{E3D3577C-FBBA-4657-AC0A-6063C356B245}.Release|x86.ActiveCfg = Release|Win32
+		{E3D3577C-FBBA-4657-AC0A-6063C356B245}.Release|x86.Build.0 = Release|Win32
+		{93CE145A-9329-432D-AB89-5EE195451E92}.Debug|x64.ActiveCfg = Debug|x64
+		{93CE145A-9329-432D-AB89-5EE195451E92}.Debug|x64.Build.0 = Debug|x64
+		{93CE145A-9329-432D-AB89-5EE195451E92}.Debug|x86.ActiveCfg = Debug|Win32
+		{93CE145A-9329-432D-AB89-5EE195451E92}.Debug|x86.Build.0 = Debug|Win32
+		{93CE145A-9329-432D-AB89-5EE195451E92}.Release|x64.ActiveCfg = Release|x64
+		{93CE145A-9329-432D-AB89-5EE195451E92}.Release|x64.Build.0 = Release|x64
+		{93CE145A-9329-432D-AB89-5EE195451E92}.Release|x86.ActiveCfg = Release|Win32
+		{93CE145A-9329-432D-AB89-5EE195451E92}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E3D3577C-FBBA-4657-AC0A-6063C356B245} = {A8B7BD8B-53BF-427B-A321-81DA6E4D628F}
+		{93CE145A-9329-432D-AB89-5EE195451E92} = {4651D806-CA29-4B07-8014-3A49D156E43A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E79F4322-7DB5-4359-A5C4-885C010F71A7}
