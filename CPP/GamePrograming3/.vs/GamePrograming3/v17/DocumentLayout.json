@@ -3,16 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93CE145A-9329-432D-AB89-5EE195451E92}|ToyProject1 - 25.04.10\\ToyProject1 - 25.04.10.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\ToyProject1 - 25.04.10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{93CE145A-9329-432D-AB89-5EE195451E92}|ToyProject1 - 25.04.10\\ToyProject1 - 25.04.10.vcxproj|solutionrelative:ToyProject1 - 25.04.10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BB3E0F39-7F2B-4A9B-BE74-04D70758BA59}|..\\ToyProject1\\ToyProject1.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\ToyProject1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D3577C-FBBA-4657-AC0A-6063C356B245}|Ch1 - difference of C and CPP\\Ch1 - difference of C and CPP.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\Ch1 - difference of C and CPP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E3D3577C-FBBA-4657-AC0A-6063C356B245}|Ch1 - difference of C and CPP\\Ch1 - difference of C and CPP.vcxproj|solutionrelative:Ch1 - difference of C and CPP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ECD7C93-5CA0-47C9-ACF6-5A40A91DC5F5}|GamePrograming3\\GamePrograming3.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\GamePrograming3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1ECD7C93-5CA0-47C9-ACF6-5A40A91DC5F5}|GamePrograming3\\GamePrograming3.vcxproj|solutionrelative:GamePrograming3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FC32054B-CF5A-44A0-8EE4-4716B7FA38AD}|..\\Ch2\\Ch2.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +16,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\ToyProject1 - 25.04.10\\main.cpp",
-              "RelativeDocumentMoniker": "ToyProject1 - 25.04.10\\main.cpp",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\ToyProject1 - 25.04.10\\main.cpp",
-              "RelativeToolTip": "ToyProject1 - 25.04.10\\main.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T08:19:07.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\GamePrograming3\\main.cpp",
-              "RelativeDocumentMoniker": "GamePrograming3\\main.cpp",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\GamePrograming3\\main.cpp",
-              "RelativeToolTip": "GamePrograming3\\main.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T07:24:04.945Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\Ch1 - difference of C and CPP\\main.cpp",
-              "RelativeDocumentMoniker": "Ch1 - difference of C and CPP\\main.cpp",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\Ch1 - difference of C and CPP\\main.cpp",
-              "RelativeToolTip": "Ch1 - difference of C and CPP\\main.cpp",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAmwFAAAAAuAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch2\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Ch2\\main.cpp",
+              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch2\\main.cpp",
+              "RelativeToolTip": "..\\Ch2\\main.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAwwIMAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T07:15:17.091Z",
+              "WhenOpened": "2025-04-11T07:15:39.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\ToyProject1\\main.cpp",
+              "RelativeDocumentMoniker": "..\\ToyProject1\\main.cpp",
+              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\ToyProject1\\main.cpp",
+              "RelativeToolTip": "..\\ToyProject1\\main.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwDMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T08:01:35.822Z",
               "EditorCaption": ""
             }
           ]
