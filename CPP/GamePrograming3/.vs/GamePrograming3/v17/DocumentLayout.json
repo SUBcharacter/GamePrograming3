@@ -3,13 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB3E0F39-7F2B-4A9B-BE74-04D70758BA59}|..\\ToyProject1\\ToyProject1.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\ToyProject1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1F891D28-EC2D-4F23-BA41-3F7FFAC38D07}|..\\Ch4\\Ch4.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBCA01B-1DAD-440D-B079-2EEB8043F716}|..\\Ch3\\Ch3.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1F891D28-EC2D-4F23-BA41-3F7FFAC38D07}|..\\Ch4\\Ch4.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC32054B-CF5A-44A0-8EE4-4716B7FA38AD}|..\\Ch2\\Ch2.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1F891D28-EC2D-4F23-BA41-3F7FFAC38D07}|..\\Ch4\\Ch4.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F891D28-EC2D-4F23-BA41-3F7FFAC38D07}|..\\Ch4\\Ch4.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F891D28-EC2D-4F23-BA41-3F7FFAC38D07}|..\\Ch4\\Ch4.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F891D28-EC2D-4F23-BA41-3F7FFAC38D07}|..\\Ch4\\Ch4.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,45 +28,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch3\\main.cpp",
-              "RelativeDocumentMoniker": "..\\Ch3\\main.cpp",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch3\\main.cpp",
-              "RelativeToolTip": "..\\Ch3\\main.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAuwDoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-14T06:55:29.3Z",
+              "Title": "player.h",
+              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\player.h",
+              "RelativeDocumentMoniker": "..\\Ch4\\player.h",
+              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\player.h",
+              "RelativeToolTip": "..\\Ch4\\player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T08:12:17.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch2\\main.cpp",
-              "RelativeDocumentMoniker": "..\\Ch2\\main.cpp",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch2\\main.cpp",
-              "RelativeToolTip": "..\\Ch2\\main.cpp",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAwwIMAAABOAAAAAAAAAA==",
+              "Title": "player.cpp",
+              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\player.cpp",
+              "RelativeDocumentMoniker": "..\\Ch4\\player.cpp",
+              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\player.cpp",
+              "RelativeToolTip": "..\\Ch4\\player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-11T07:15:39.662Z",
+              "WhenOpened": "2025-04-15T08:20:37.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\game.h",
+              "RelativeDocumentMoniker": "..\\Ch4\\game.h",
+              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\game.h",
+              "RelativeToolTip": "..\\Ch4\\game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T08:14:33.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "item.h",
+              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\item.h",
+              "RelativeDocumentMoniker": "..\\Ch4\\item.h",
+              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\item.h",
+              "RelativeToolTip": "..\\Ch4\\item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T08:01:38.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "item.cpp",
+              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\item.cpp",
+              "RelativeDocumentMoniker": "..\\Ch4\\item.cpp",
+              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\item.cpp",
+              "RelativeToolTip": "..\\Ch4\\item.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T08:09:08.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\ToyProject1\\main.cpp",
-              "RelativeDocumentMoniker": "..\\ToyProject1\\main.cpp",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\ToyProject1\\main.cpp",
-              "RelativeToolTip": "..\\ToyProject1\\main.cpp",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAwwJkAAABCAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Ch4\\main.cpp",
+              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\Ch4\\main.cpp",
+              "RelativeToolTip": "..\\Ch4\\main.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-11T08:01:35.822Z",
+              "WhenOpened": "2025-04-15T07:05:47.04Z",
               "EditorCaption": ""
             }
           ]
