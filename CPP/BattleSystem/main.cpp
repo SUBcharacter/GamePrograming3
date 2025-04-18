@@ -15,16 +15,23 @@
 * 
 */
 
-#include "Enemy.h"
+#include "GameManager.h"
+
+/*
+* Enemy 객체
+* GameManager 객체
+*/
 
 int main()
 {
-	Enemy Slime(50, 5, 1, "슬라임", SlimeBattle);
+	
+	Enemy Slime(50, 5, 1, "슬라임", SlimeBattle,BATTLE);
+	Player player(50, 5, 1, "모험가", PlayerIdle, IDLE);
+	GameManager game(Slime,player);
 
-	int x = 30, y = 5;
+	//int x = 30, y = 5;
 
 	
-	_getch();
 
 	/*
 	* 적이 어떤 조건일때 SlimeIdle이어야 하는가?
@@ -32,15 +39,7 @@ int main()
 	* 적이 어떤 조건일때 Battle인가
 	*/
 
-	while (1)
-	{
-		
-		
-		Slime.SetBattleImage(SlimeIdle, x, y);
-		Sleep(500);
-		system("cls");
-		Slime.SetBattleImage(SlimeMove, x, y);
-		Sleep(500);
-		system("cls");
-	}
+	game.GameLoop();
+
+	
 }

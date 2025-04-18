@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EC9B0835-7EA3-4B5B-918D-29C3C1B87C7C}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9B0835-7EA3-4B5B-918D-29C3C1B87C7C}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9B0835-7EA3-4B5B-918D-29C3C1B87C7C}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9B0835-7EA3-4B5B-918D-29C3C1B87C7C}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC9B0835-7EA3-4B5B-918D-29C3C1B87C7C}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -12,16 +24,16 @@
       "AbsoluteMoniker": "D:0:0:{EC9B0835-7EA3-4B5B-918D-29C3C1B87C7C}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC9B0835-7EA3-4B5B-918D-29C3C1B87C7C}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC9B0835-7EA3-4B5B-918D-29C3C1B87C7C}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC9B0835-7EA3-4B5B-918D-29C3C1B87C7C}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EC9B0835-7EA3-4B5B-918D-29C3C1B87C7C}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC9B0835-7EA3-4B5B-918D-29C3C1B87C7C}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9B0835-7EA3-4B5B-918D-29C3C1B87C7C}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,11 +43,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\GameManager.h",
+              "RelativeDocumentMoniker": "..\\BattleSystem\\GameManager.h",
+              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\GameManager.h",
+              "RelativeToolTip": "..\\BattleSystem\\GameManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-18T07:08:20.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\GameManager.cpp",
+              "RelativeDocumentMoniker": "..\\BattleSystem\\GameManager.cpp",
+              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\GameManager.cpp",
+              "RelativeToolTip": "..\\BattleSystem\\GameManager.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-18T08:01:05.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Player.h",
+              "RelativeDocumentMoniker": "..\\BattleSystem\\Player.h",
+              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Player.h",
+              "RelativeToolTip": "..\\BattleSystem\\Player.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-18T07:34:28.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Player.cpp",
+              "RelativeDocumentMoniker": "..\\BattleSystem\\Player.cpp",
+              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Player.cpp",
+              "RelativeToolTip": "..\\BattleSystem\\Player.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-18T07:46:43.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "common.h",
+              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\common.h",
+              "RelativeDocumentMoniker": "..\\BattleSystem\\common.h",
+              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\common.h",
+              "RelativeToolTip": "..\\BattleSystem\\common.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-17T07:02:28.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "common.cpp",
               "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\common.cpp",
               "RelativeDocumentMoniker": "..\\BattleSystem\\common.cpp",
@@ -48,78 +125,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "common.h",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\common.h",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\common.h",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\common.h",
-              "RelativeToolTip": "..\\BattleSystem\\common.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-17T07:02:28.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Image.h",
               "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Image.h",
               "RelativeDocumentMoniker": "..\\BattleSystem\\Image.h",
               "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Image.h",
               "RelativeToolTip": "..\\BattleSystem\\Image.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-17T07:31:33.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Image.cpp",
               "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Image.cpp",
               "RelativeDocumentMoniker": "..\\BattleSystem\\Image.cpp",
               "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Image.cpp",
               "RelativeToolTip": "..\\BattleSystem\\Image.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAE0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-17T07:33:46.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Enemy.h",
               "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Enemy.h",
               "RelativeDocumentMoniker": "..\\BattleSystem\\Enemy.h",
               "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Enemy.h",
               "RelativeToolTip": "..\\BattleSystem\\Enemy.h",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwB4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwBkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-17T07:16:37.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Enemy.cpp",
               "RelativeDocumentMoniker": "..\\BattleSystem\\Enemy.cpp",
               "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\Enemy.cpp",
               "RelativeToolTip": "..\\BattleSystem\\Enemy.cpp",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-17T07:43:52.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\main.cpp",
               "RelativeDocumentMoniker": "..\\BattleSystem\\main.cpp",
               "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\BattleSystem\\main.cpp",
               "RelativeToolTip": "..\\BattleSystem\\main.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAwwC0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAywBsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-17T06:57:18.495Z",
               "EditorCaption": ""
