@@ -30,6 +30,10 @@ int main()
 	system("cls");
 	cout << "달리기 게임 코드" << endl;
 
+	// 사운드를 출력해주는 기능을 작성
+	//ConsoleUtil::PlayGameBGM(_T("sound.wav"));
+	_getch();
+
 	Runner* runA = new Player("PP");
 	Runner* runB = new Runner("B");
 	Runner* runC = new Runner("C");
@@ -38,9 +42,10 @@ int main()
 	string line = "===========================================================";
 
 	int endLine = line.length();
-
+	//ConsoleUtil::PlayGameBGM(_T("BGM.wav"));
 	while (true)
 	{
+		
 		Sleep(500); // 1초 간격으로 화면을 업데이트
 		system("cls");
 
@@ -85,4 +90,5 @@ int main()
 	{
 		cout << "우승자 : D" << endl;
 	}
+	//ConsoleUtil::PlayBGM(_T("Win.wav"));
 }

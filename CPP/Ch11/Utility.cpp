@@ -13,3 +13,14 @@ void ConsoleUtil::GoToXY(int x, int y)
 	static COORD pos = { x,y };
 	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
 }
+
+void ConsoleUtil::PlayBGM(LPCWSTR filename)
+{
+	PlaySound(filename, NULL, SND_SYNC);
+}
+
+void ConsoleUtil::PlayGameBGM(LPCWSTR filename)
+{
+	PlaySound(filename, NULL, SND_ASYNC);
+}
+

@@ -5,13 +5,18 @@
 class Runner
 {
 private:
-	int runDist;
+	
 	bool isEnd;
 protected:
+	int runDist;
 	int minSpeed;
 	int maxSpeed;
 
 	string symbol;
+
+	virtual void SetMaxSpeed();
+	void DrawMoveDistance();
+	virtual void SetShape();
 public:
 	Runner() : runDist(0), isEnd(false), minSpeed(1), maxSpeed(5), symbol("E") {}
 	Runner(string symbol) : runDist(0), isEnd(false), minSpeed(1), maxSpeed(5), symbol(symbol) {}
@@ -22,7 +27,11 @@ public:
 
 class Player : public Runner
 {
-private:
+protected:
+	void SetMaxSpeed() override;
+	void SetShape() override;
+	
+
 
 public:
 	Player() : Runner()
@@ -31,12 +40,22 @@ public:
 	}
 	Player(string symbol) : Runner(symbol) {}
 
-public:
-	void Run();
-	void Upgrade();
+	
 };
 
 class Enemy : public Runner
 {
+protected:
+	void SetMaxSpeed() override;
+	void SetShape() override;
+
+
+
+public:
+	Enemy() : Runner()
+	{
+		symbol = "E";
+	}
+	Enemy(string symbol) : Runner(symbol) {}
 
 };
