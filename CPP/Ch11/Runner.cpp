@@ -40,6 +40,66 @@ bool Runner::CheckEndLine(int length)
 	return isEnd;
 }
 
+void Runner::ShowPlayerGameInfo()
+{
+}
+
+void Runner::Upgrade(PlayerStat stat)
+{
+	if (stat == PlayerStat::MINSPEED)
+	{
+		SetMin(1);
+		cout << "최소 속도 1 증가" << endl;
+	}
+	else if (stat == PlayerStat::MAXSPEED)
+	{
+		SetMax(1);
+		cout << "최대 속도 1 증가" << endl;
+	}
+	else if (stat == PlayerStat::NONE)
+	{
+		cout << "적용될 스탯이 없습니다" << endl;
+	}
+}
+
+void Runner::Upgrade(PlayerStat stat, int amount)
+{
+	if (stat == PlayerStat::MINSPEED)
+	{
+		SetMin(amount);
+
+		cout << "최소 속도 " << amount << "증가" << endl;
+	}
+	else if (stat == PlayerStat::MAXSPEED)
+	{
+		SetMax(amount);
+		cout << "최대 속도 " << amount << "증가" << endl;
+	}
+	else if (stat == PlayerStat::NONE)
+	{
+		cout << "적용될 스탯이 없습니다" << endl;
+	}
+}
+
+void Runner::SetMin(int value)
+{
+	if (maxSpeed < value)
+	{
+		value = maxSpeed;
+	}
+
+	minSpeed = value;
+}
+
+void Runner::SetMax(int value)
+{
+	if (10 < value)
+	{
+		value = 10;
+	}
+	maxSpeed = value;
+}
+
 void Player::SetMaxSpeed()
 {
 	int applyMaxSpeed = maxSpeed + 1; // 아이콘, 스킬이름, 효과 : 플레이어의 최대 속도를 1 증가 시켜주는 스킬
@@ -58,6 +118,23 @@ void Player::SetShape()
 	else
 		cout << symbol << endl;
 }
+
+void Player::ShowPlayerGameInfo()
+{
+	ConsoleUtil::GoToXY(0, 8);
+	cout << " " << endl;
+	cout << "유저 정보" << endl;
+	cout << "최소 속도 : " << minSpeed << endl;
+	cout << "최대 속도 : " << maxSpeed << endl;
+	cout << "보유 금액" << money << endl;
+}
+
+void Player::Upgrade(PlayerStat stat)
+{
+	Runner::Upgrade(stat);
+}
+
+
 
 void Enemy::SetMaxSpeed()
 {
