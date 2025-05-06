@@ -1,36 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GamePrograming3\\CPP\\GamePrograming3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D69EE971-CD7A-48A0-AA13-B864A15350F5}|..\\DataHandler\\DataHandler.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\Shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{196C535E-AF71-4EBF-A0D0-CBA686AAE6E2}|..\\SynergyPractice\\SynergyPractice.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming3\\CPP\\SynergyPractice\\Synergy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D69EE971-CD7A-48A0-AA13-B864A15350F5}|..\\DataHandler\\DataHandler.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{196C535E-AF71-4EBF-A0D0-CBA686AAE6E2}|..\\SynergyPractice\\SynergyPractice.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming3\\CPP\\SynergyPractice\\SynergyManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D69EE971-CD7A-48A0-AA13-B864A15350F5}|..\\DataHandler\\DataHandler.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{196C535E-AF71-4EBF-A0D0-CBA686AAE6E2}|..\\SynergyPractice\\SynergyPractice.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming3\\CPP\\SynergyPractice\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D69EE971-CD7A-48A0-AA13-B864A15350F5}|..\\DataHandler\\DataHandler.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D69EE971-CD7A-48A0-AA13-B864A15350F5}|..\\DataHandler\\DataHandler.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D69EE971-CD7A-48A0-AA13-B864A15350F5}|..\\DataHandler\\DataHandler.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\DataHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D69EE971-CD7A-48A0-AA13-B864A15350F5}|..\\DataHandler\\DataHandler.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\Shop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D69EE971-CD7A-48A0-AA13-B864A15350F5}|..\\DataHandler\\DataHandler.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\DataHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D69EE971-CD7A-48A0-AA13-B864A15350F5}|..\\DataHandler\\DataHandler.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D69EE971-CD7A-48A0-AA13-B864A15350F5}|..\\DataHandler\\DataHandler.vcxproj|C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{196C535E-AF71-4EBF-A0D0-CBA686AAE6E2}|..\\SynergyPractice\\SynergyPractice.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming3\\CPP\\SynergyPractice\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,134 +22,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 4,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GameManager.h",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\GameManager.h",
-              "RelativeDocumentMoniker": "..\\DataHandler\\GameManager.h",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\GameManager.h",
-              "RelativeToolTip": "..\\DataHandler\\GameManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T07:55:46.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameManager.cpp",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\GameManager.cpp",
-              "RelativeDocumentMoniker": "..\\DataHandler\\GameManager.cpp",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\GameManager.cpp",
-              "RelativeToolTip": "..\\DataHandler\\GameManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T07:55:51.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\Player.h",
-              "RelativeDocumentMoniker": "..\\DataHandler\\Player.h",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\Player.h",
-              "RelativeToolTip": "..\\DataHandler\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T07:55:24.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\Player.cpp",
-              "RelativeDocumentMoniker": "..\\DataHandler\\Player.cpp",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\Player.cpp",
-              "RelativeToolTip": "..\\DataHandler\\Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T07:56:02.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Shop.h",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\Shop.h",
-              "RelativeDocumentMoniker": "..\\DataHandler\\Shop.h",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\Shop.h",
-              "RelativeToolTip": "..\\DataHandler\\Shop.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T07:55:17.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Shop.cpp",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\Shop.cpp",
-              "RelativeDocumentMoniker": "..\\DataHandler\\Shop.cpp",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\Shop.cpp",
-              "RelativeToolTip": "..\\DataHandler\\Shop.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T07:56:06.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataHandler.h",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\DataHandler.h",
-              "RelativeDocumentMoniker": "..\\DataHandler\\DataHandler.h",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\DataHandler.h",
-              "RelativeToolTip": "..\\DataHandler\\DataHandler.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T07:10:33.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataHandler.cpp",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\DataHandler.cpp",
-              "RelativeDocumentMoniker": "..\\DataHandler\\DataHandler.cpp",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\DataHandler.cpp",
-              "RelativeToolTip": "..\\DataHandler\\DataHandler.cpp",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T07:24:19.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "common.h",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\common.h",
-              "RelativeDocumentMoniker": "..\\DataHandler\\common.h",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\common.h",
-              "RelativeToolTip": "..\\DataHandler\\common.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T07:04:53.265Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 192,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SynergyManager.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming3\\CPP\\SynergyPractice\\SynergyManager.h",
+              "RelativeDocumentMoniker": "..\\SynergyPractice\\SynergyManager.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming3\\CPP\\SynergyPractice\\SynergyManager.h",
+              "RelativeToolTip": "..\\SynergyPractice\\SynergyManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T08:37:46.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Synergy.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming3\\CPP\\SynergyPractice\\Synergy.h",
+              "RelativeDocumentMoniker": "..\\SynergyPractice\\Synergy.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming3\\CPP\\SynergyPractice\\Synergy.h",
+              "RelativeToolTip": "..\\SynergyPractice\\Synergy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T08:37:34.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "common.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming3\\CPP\\SynergyPractice\\common.h",
+              "RelativeDocumentMoniker": "..\\SynergyPractice\\common.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming3\\CPP\\SynergyPractice\\common.h",
+              "RelativeToolTip": "..\\SynergyPractice\\common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T08:37:10.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\main.cpp",
-              "RelativeDocumentMoniker": "..\\DataHandler\\main.cpp",
-              "ToolTip": "C:\\Users\\LEEYUNGI\\Desktop\\GamePrograming3\\CPP\\DataHandler\\main.cpp",
-              "RelativeToolTip": "..\\DataHandler\\main.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxgAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming3\\CPP\\SynergyPractice\\main.cpp",
+              "RelativeDocumentMoniker": "..\\SynergyPractice\\main.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming3\\CPP\\SynergyPractice\\main.cpp",
+              "RelativeToolTip": "..\\SynergyPractice\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T07:04:31.967Z",
+              "WhenOpened": "2025-05-06T08:36:42.746Z",
               "EditorCaption": ""
             }
           ]
