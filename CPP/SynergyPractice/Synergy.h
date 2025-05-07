@@ -1,20 +1,30 @@
 #pragma once
 #include "common.h"
 #include "SynergyManager.h"
+#include "Weapon.h"
+
 
 class Synergy
 {
-private:
+protected:
 	int count;
+	
 	
 public:
 	virtual void Activate(int count) = 0;
 	
 };
 
-class FirePower : Synergy
+class FirePower : public Synergy
 {
 public:
 	float weight;
-	void Activate(int count) override;
+	void Activate(int stack) override;
+};
+
+class SlowEnemy : public Synergy
+{
+public:
+	float weight;
+	void Activate(int stack) override;
 };
